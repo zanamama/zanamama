@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m an entrepreneur and coach.
+- 🔭 I’m an employment consultant and coach.
 - 🌱 I’m currently learning react js.
 - 👯 I’m looking to collaborate on an interactive puzzle app for autistic children.
 - 🤔 I’m looking for help with building APIs.
