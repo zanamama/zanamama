@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m a developer with sales experience.
-- 🌱 I’m currently learning react js.
+- 🌱 I’m currently learning react js, typescript, and python.
 - 👯 I’m looking to collaborate on an interactive puzzle app for autistic children.
 - 🤔 I’m looking for help with building APIs.
 - 💬 Ask me about how to help you monetize your mobile and web app ideas.
